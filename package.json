@@ -1,0 +1,25 @@
+{
+  "name": "vite-hmr-issue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "dev": "vite",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "element-plus": "^2.2.0",
+    "vue": "^3.2.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.0-alpha.0",
+    "@vue/cli-service": "~5.0.0",
+    "vite": "^3.0.0-alpha.1"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
